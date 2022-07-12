@@ -1,6 +1,7 @@
 # Design Pattern Practise
 
 ## Installation
+First Step: to start server
 ```sh
 cd expressjs-inversity
 npm i

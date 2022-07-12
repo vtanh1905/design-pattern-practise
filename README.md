@@ -2,7 +2,7 @@
 
 ## Installation
 ```sh
-cd expressjs-inversity
+cd design-pattern-practise
 npm i
 npm start
 ```

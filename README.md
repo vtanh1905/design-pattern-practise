@@ -10,9 +10,8 @@ npm start
 ### Creational
 | Pattern           | Status |
 | ------            | ------ |
-| Abstract factory  | ❌ |
 | Builder           | ❌ |
-| Factory           | ✅ |
+| Factory Pattern   | ✅ |
 | Prototype         | ❌ |
 | Singleton         | ❌ |
 | Flyweight         | ❌ |

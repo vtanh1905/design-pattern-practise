@@ -4,7 +4,8 @@
   "description": "",
   "main": "app.ts",
   "scripts": {
-    "start:factory:method": "ts-node ./factory-pattern/factory-method-pattern/main.ts"
+    "start:factory:method": "ts-node ./factory-pattern/factory-method-pattern/main.ts",
+    "start:factory:abstract": "ts-node ./factory-pattern/abstract-factory-pattern/main.ts"
   },
   "keywords": [],
   "author": "",

@@ -13,7 +13,7 @@ npm start
 | Builder           | ❌ |
 | Factory Pattern   | ✅ |
 | Prototype         | ❌ |
-| Singleton         | ❌ |
+| Singleton         | ✅ |
 | Flyweight         | ❌ |
 
 ### Structure
